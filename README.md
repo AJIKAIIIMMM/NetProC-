@@ -1,2 +1,2 @@
-# NetProC-
+# NetProC
 Network Programming in C++
